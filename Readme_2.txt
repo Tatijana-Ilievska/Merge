@@ -1,1 +1,1 @@
-Readme part 2
+Promena napravena vo master
