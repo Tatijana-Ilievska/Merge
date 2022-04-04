@@ -1,1 +1,1 @@
-Promena napravena vo branch
+Promena napravena na remote
