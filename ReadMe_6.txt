@@ -1,1 +1,1 @@
-Read me part 6 in branch
+This is part of changelog 9
